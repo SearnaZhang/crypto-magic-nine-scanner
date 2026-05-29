@@ -1,0 +1,6 @@
+rank,coin,name,symbol,provider,timeframe,direction,count,status,close,candle_time,volume_change,market_cap,volume_24h
+8,tron,TRON,TRX-USDT,okx,1w,sell,13,extended_9_plus,0.35206,2026-05-25,-0.11650586849512934,33349863083,912522483
+11,hyperliquid,Hyperliquid,HYPE-USDT,okx,1w,sell,12,extended_9_plus,61.234,2026-05-25,-0.23154588683871236,13614291941,1026866726
+14,zcash,Zcash,ZEC-USDT,okx,1w,sell,10,extended_9_plus,544.01,2026-05-25,-0.22349082530389042,9127397838,726644811
+5,ripple,XRP,XRP-USDT,okx,1d,buy,14,extended_9_plus,1.3127,2026-05-28,0.11397194439179437,81367326790,2387342623
+16,cardano,Cardano,ADA-USDT,okx,1d,buy,17,extended_9_plus,0.2342,2026-05-28,0.3709025573105149,8663433435,470694412

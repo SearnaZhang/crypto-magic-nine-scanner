@@ -1,0 +1,11 @@
+{
+  "market_cap_limit": 200,
+  "providers": ["binance", "okx"],
+  "quote_asset": "USDT",
+  "near_counts": [7, 8],
+  "kline_limit": 260,
+  "timeframes": {
+    "1d": "daily",
+    "1w": "weekly"
+  }
+}
